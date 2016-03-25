@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<!--
+A Guide to Islam:
+-->
+
+<islam>
+
+  <level name="توحيد" englishName="">
+    <introduction>
+      لا إله إلا الله
+
+      "La Ilaha Illa Allah" means "Nothing is righteously worshiped except Allah"
+
+      - Instinct: all humans know, by instinct, the existence of a Marvelous Creator how had fashioned and balanced life.
+
+      - Message: This Creator had sent messengers so people would worship Him alone, directly, with no mediators or intercessors (no saints, sons, messengers, angels, spirits, trees, stones, stars...etc.).
+
+
+    </introduction>
+
+    <level name="ألوهية" englishName=""/>
+
+    <level name="ربوبية" englishName=""/>
+
+    <level name="أسماء وصفات" englishName=""/>
+
+    <level name="أركان الإسلام" englishName="">
+      <introduction>
+
+      </introduction>
+      <level name="الشهادة" englishName=""/>
+      <level name="صلاة" englishName="">
+        <introduction>
+
+        </introduction>
+      </level>
+      <level name="زكاة" englishName="">
+        <introduction>
+
+        </introduction>
+
+      </level>
+      <level name="صوم" englishName=""/>
+      <level name="حج" englishName=""/>
+    </level>
+
+    <level name="أركان الإيمان" englishName="">
+      <introduction>
+
+      </introduction>
+      <level name="بالله"/>
+      <level name="ملائكة"/>
+      <level name="كتب"/>
+      <level name="رسل"/>
+      <level name="يوم ءاخر"/>
+      <level name="قدر">
+      </level>
+
+    </level>
+
+    <level name="عقيدة أهل السنة والجماعة" englishName="">
+      <introduction>
+
+      </introduction>
+    </level>
+
+    <level name="نواقض الإسلام" englishName="">
+      <introduction>
+
+      </introduction>
+
+    </level>
+
+    <level name="الكبائر" englishName="">
+      <introduction>
+
+      </introduction>
+
+    </level>
+
+    <level name="الحلال والحرام" englishName="">
+      <introduction>
+
+      </introduction>
+
+    </level>
+
+    <level name="فضائل الأعمال" englishName="">
+      <introduction>
+
+      </introduction>
+
+    </level>
+
+  </level>
+
+</islam>

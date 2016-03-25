@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+File:
+Started:
+Updated:
+
+تصنيف البلاد بحسب المعتقد
+
+
+Belief: Topic (Country or region)
+
+Muslim: U,A (Middle East, World)
+
+Hindu: R,U (India)
+
+Shinto/Ancestors: R,U (East, Japan, Korea, China)
+
+Christian: R,U (West, Americas, Australia, Europe, Africa, Russia, Korea, Lebanon, Armenia, Georgia)
+
+Jewish: U (Israel, America)
+
+Bhuddest: R,U (India, China, South-East Asia)
+
+Non-Religious: R,U (Europe, Russia, Australia, America, China)
+
+Rafidha: U,A (Iran, Iraq, Pakistan, India, Lebanon, Saudi Arabia, Kuwait)
+
+Nusairi: U,A (Syria, Turkey, Lebanon)
+
+Lost: R,U (China, Japan, Korean, Europe, America, Russia)
+
+-->
+
+<countryBelief>
+  <country symbol="us">
+    <belief name="" percentage=""/>    
+  </country>
+
+</countryBelief>
+

@@ -1,0 +1,557 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+File: List of language specific attributes and search terms
+Started: 1994
+Updated: 2014-06
+-->
+
+<language>
+  <lang symbol="en">
+    <main name="Index">
+      <home>Home</home>
+      <title>The Holy Qurán</title>
+      <meta>
+        <meta name="description" content="English translation of the Quran. Koran Reference Network."/>
+        <meta name="keywords" content="Muslim,Islam,Koran,Quran,Coran,English,Holy,Scripture"/>
+      </meta>
+      <bismillah>In the name of Allah, Most Gracious, Most Merciful.</bismillah>
+    </main>
+    <intro name="Preface"/>
+    <search>
+      <main>
+        <title>Word Search</title>
+        <instruction>Enter the words to search after</instruction>
+        <hint name="Hint">Start with single words (i.e., "life", "Hereafter", "Mary",...etc.)</hint>
+        <button>Search</button>
+        <case>case sensitive</case>
+        <backwards>backwards</backwards>
+      </main>
+      <result>
+        <empty_field>You did not submit any search words!</empty_field>
+        <title>The Holy Qurán: Search Results</title>
+        <space> </space>
+        <period>.</period>
+        <comma>,</comma>
+        <only>This search will accept English words only.</only>
+        <search_for_word>Searching for the word</search_for_word>
+        <search_for_words>Searching for the words</search_for_words>
+        <search_for_word_end></search_for_word_end>
+        <search_for_words_end></search_for_words_end>
+        <quote_on>"</quote_on>
+        <quote_off>"</quote_off>
+        <and>and</and>
+        <search_is>The search is</search_is>
+        <sensitive_for_word>case and accent sensitive for the word</sensitive_for_word>
+        <sensitive_for_words>case and accent sensitive for the words</sensitive_for_words>
+        <wildcards>This search uses one or more wildcards (? and *)</wildcards>
+        <the_word>The word</the_word>
+        <the_words>The words</the_words>
+        <was_not_found>was not found.</was_not_found>
+        <were_not_found>were not found.</were_not_found>
+        <appears_in>appears in</appears_in>
+        <number_of_appear_words>Number of appearances of words:</number_of_appear_words>
+        <one_verse>one verse.</one_verse>
+        <many_verses>verses.</many_verses>
+        <not_all_together>do not appear all together in one verse of the Koran.</not_all_together>
+        <all>All together</all>
+        <starting_verse>This list starts with verse number</starting_verse>
+        <starting_verse_end></starting_verse_end>
+        <next>Next</next>
+      </result>
+    </search>
+  </lang>
+
+  <lang symbol="es">
+    <main name="Índice">
+      <home>Inicio</home>
+      <title>El Sagrado Corán</title>
+      <meta>
+        <meta name="description" content="Traducción castellana del Sagrado Corán, la escritura sagrada del Islam."/>
+        <meta name="keywords" content="Spanish,Coran,Islam,Koran,Spain,Espanol,Espana,South,America,Mexico,Muslim,castellano,Musulman,Escritura"/>
+      </meta>
+      <bismillah>¡En el nombre de Alá, el Compasivo, el Misericordioso!</bismillah>
+    </main>
+    <intro name="Introducción"/>
+    <search>
+      <main>
+        <title>Búsqueda por palabras</title>
+        <instruction>Escriba palabras para buscar</instruction>
+        <hint name="Indirecta">Empieza con sencillas, únicas palabras (es decir, "creer", "tierra", "María",...etc.)</hint>
+        <button>Buscar</button>
+        <case>Búsqueda sensitiva al uso de mayúsculas (insensitiva automaticamente.)</case>
+        <backwards>Búsqueda en reverso del texto.</backwards>
+      </main>
+      <result>
+        <empty_field>¡Usted no escribió cualesquiera palabras de búsqueda!</empty_field>
+        <title>El Sagrado Corán: Los resultados de la búsqueda</title>
+        <space> </space>
+        <period>.</period>
+        <comma>,</comma>
+        <only>Esta búsqueda aceptará palabras sólo españolas.</only>
+        <search_for_word>Se busca la palabra</search_for_word>
+        <search_for_words>Se buscan las palabras</search_for_words>
+        <search_for_word_end></search_for_word_end>
+        <search_for_words_end></search_for_words_end>
+        <quote_on>«</quote_on>
+        <quote_off>»</quote_off>
+        <and>y</and>
+        <search_is>El buscada es</search_is>
+        <sensitive_for_word>sensitiva al uso de mayúsculas por la palabra</sensitive_for_word>
+        <sensitive_for_words>sensitiva al uso de mayúsculas por los palabras</sensitive_for_words>
+        <wildcards>Este buscador utiliza <i>wildcards</i> (? o *)</wildcards>
+        <the_word>La palabra</the_word>
+        <the_words>La palabras</the_words>
+        <was_not_found>no fue encontrada.</was_not_found>
+        <were_not_found>no fueron encontradas.</were_not_found>
+        <appears_in>La palabra aparece en</appears_in>
+        <number_of_appear_words>Número de veces que aparecen las palabras:</number_of_appear_words>
+        <one_verse>un versículo.</one_verse>
+        <many_verses>versos.</many_verses>
+        <not_all_together>no aparecen juntas en un verso del tipo de búsqueda.</not_all_together>
+        <all>en total</all>
+        <starting_verse>Esta lista empieza desde versículo número</starting_verse>
+        <starting_verse_end></starting_verse_end>
+        <next>Próximo</next>
+      </result>
+    </search>
+  </lang>
+
+  <lang symbol="fr">
+    <main name="Le répertoire des chapitres">
+      <home>Accueil</home>
+      <title>Le Saint Coran</title>
+      <meta>
+        <meta name="description" content="La Traduction française du Coran, L'écriture sainte de l'Islam."/>
+        <meta name="keywords" content="Muslim,Coran,French,francaise,Ecriture,Saint,Sainte,francais,France,Koran,Islam,Quran,Musulman,Latin,Scripture"/>
+      </meta>
+      <bismillah>Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux</bismillah>
+    </main>
+    <intro name="Crédits et référence"/>
+    <search>
+      <main>
+        <title>Recherche lexicographique</title>
+        <instruction>Entrer mots à chercher</instruction>
+        <hint name="Note">Commençez avec des mots simples et uniques (example, "femme", "vie", "croient",...etc.)</hint>
+        <button>Rechercher</button>
+        <case>prise en compte de la différence majuscules / minuscules.</case>
+        <backwards>dans l'ordre décroissant.</backwards>
+      </main>
+      <result>
+        <empty_field>Vous n'avez pas rentré de mots à rechercher!</empty_field>
+        <title>Le Saint Coran: Résultats de la Recherche</title>
+        <space> </space>
+        <period>.</period>
+        <comma>,</comma>
+        <only>Cette recherche acceptera seulement des mots français.</only>
+        <search_for_word>Á la recherche du mot</search_for_word>
+        <search_for_words>Á la recherche des mots</search_for_words>
+        <search_for_word_end></search_for_word_end>
+        <search_for_words_end></search_for_words_end>
+        <quote_on>‹</quote_on>
+        <quote_off>›</quote_off>
+        <and>et</and>
+        <search_is>La recherche es</search_is>
+        <sensitive_for_word>prise en compte de la différence majuscules / minuscules por la mot</sensitive_for_word>
+        <sensitive_for_words>prise en compte de la différence majuscules / minuscules pos les mots</sensitive_for_words>
+        <wildcards>Cette recherche utilise un ou plusieurs symboles (? et *)</wildcards>
+        <the_word>Le mot</the_word>
+        <the_words>Les mots</the_words>
+        <was_not_found>n'a pas eté trouve.</was_not_found>
+        <were_not_found>n'ont pas eté trouvés.</were_not_found>
+        <appears_in>La mot apparait dans</appears_in>
+        <number_of_appear_words>Nombre des mots apparut:</number_of_appear_words>
+        <one_verse>un verset.</one_verse>
+        <many_verses>versets.</many_verses>
+        <not_all_together>n'apparaissent pas dans le versé choisi.</not_all_together>
+        <all>tout ensemble</all>
+        <starting_verse>Cette liste commence á partit du verset numero</starting_verse>
+        <starting_verse_end></starting_verse_end>
+        <next>Suivant</next>
+      </result>
+    </search>
+  </lang>
+
+  <lang symbol="de">
+    <main name="Kapitelübersicht">
+      <home>Home</home>
+      <title>Der Heilige Koran</title>
+      <meta>
+        <meta name="description" content="Deutsche Übersetzung der Schrift des Islam."/>
+        <meta name="keywords" content="Moslim,Koran,Schrift,Islam,Heilige,Islamisch,Arabisch,Gott,Buch,Osten,Allah"/>
+      </meta>
+      <bismillah>Im Namen Allahs, des Gnädigen, des Barmherzigen</bismillah>
+    </main>
+    <intro name="Vorwort"/>
+    <search>
+      <main>
+        <title>Wortsuchfunktion</title>
+        <instruction>Geben Sie Wörter ein</instruction>
+        <hint name="Hinweis">Fangen Sie mit einfachen Wörter an (d.h., "Tod", "Garten", "Moses",...usw.)</hint>
+        <button>Suchen</button>
+        <case>Unterscheidung zwischen Groß und Kleinschreibung.</case>
+        <backwards>Rückwärts</backwards>
+      </main>
+      <result>
+        <empty_field>Sie keine Wörter enschreiben haben!</empty_field>
+        <title>Der Heilige Koran: Suchergebnis</title>
+        <space> </space>
+        <period>.</period>
+        <comma>,</comma>
+        <only>Diese Suche wird nur deutsche Wörter akzeptieren.</only>
+        <search_for_word>Suche nach dem Wort</search_for_word>
+        <search_for_words>Suche nach den Wörtern</search_for_words>
+        <search_for_word_end></search_for_word_end>
+        <search_for_words_end></search_for_words_end>
+        <quote_on>«</quote_on>
+        <quote_off>»</quote_off>
+        <and>und</and>
+        <search_is>Die Suche ist</search_is>
+        <sensitive_for_word>Unterscheidung zwischen Groß und Kleinschreibung</sensitive_for_word>
+        <sensitive_for_words>Unterscheidung zwischen Groß und Kleinschreibung</sensitive_for_words>
+        <wildcards>Diese Suche benutzt eins oder mehr Wildcarden (? und *)</wildcards>
+        <the_word>Das Wort</the_word>
+        <the_words>Die Wörter</the_words>
+        <was_not_found>wurde nicht gefunden.</was_not_found>
+        <were_not_found>wurden nicht gefunden.</were_not_found>
+        <appears_in>Das Wort erscheinen in</appears_in>
+        <number_of_appear_words>Anzahl der Wortvorkommnisse:</number_of_appear_words>
+        <one_verse>eine Vers.</one_verse>
+        <many_verses>Versen.</many_verses>
+        <not_all_together>erscheinen nicht alle gleichseitig im selben Vers.</not_all_together>
+        <all>Zusammen</all>
+        <starting_verse>Diese Liste fängt mit dem Versnummer</starting_verse>
+        <starting_verse_end></starting_verse_end>
+        <next>Nächste</next>
+      </result>
+    </search>
+  </lang>
+
+  <lang symbol="nl">
+    <main name="Hoofdstuk Indeling">
+      <home>Home</home>
+      <title>De Heilige Koran</title>
+      <meta>
+        <meta name="description" content="Dutch translation of the Koran."/>
+        <meta name="keywords" content="Muslim,Koran,Quran,Qoraan,Nederland,Netherlands,Islam,Heilige,Bijbel,nederlander,Holland,Islamitische,god,boek,Allah,Moslim"/>
+      </meta>
+      <bismillah>In naam van Allah, de Barmhartige, de Genadevolle</bismillah>
+    </main>
+    <intro name="Voorwoord"/>
+    <search>
+      <main>
+        <title>Woordzoek functie</title>
+        <instruction>U kunt woorden invoeren voor het zoeken</instruction>
+        <hint name="Hint">Begint u met enkelen worden ("leven", "mensen", "Jezus",...enz.)</hint>
+        <button>Zoeken</button>
+        <case>gender en case sensitief</case>
+        <backwards>omgekeerd</backwards>
+      </main>
+      <result>
+        <empty_field>You did not submit any search words</empty_field>
+        <title>De Heilige Koran: Zoek resultaten</title>
+        <space> </space>
+        <period>.</period>
+        <comma>,</comma>
+        <only>This search will accept English words only.</only>
+        <search_for_word>Zoek het woord</search_for_word>
+        <search_for_words>Zoek voor de woorden</search_for_words>
+        <search_for_word_end></search_for_word_end>
+        <search_for_words_end></search_for_words_end>
+        <quote_on>"</quote_on>
+        <quote_off>"</quote_off>
+        <and>en</and>
+        <search_is>Het zoek is</search_is>
+        <sensitive_for_word>gender en case sensitief</sensitive_for_word>
+        <sensitive_for_words>gender en case sensitief</sensitive_for_words>
+        <wildcards>This search uses one or more wildcards (? and *)</wildcards>
+        <the_word>Het woord</the_word>
+        <the_words>De woorden</the_words>
+        <was_not_found>werd niet gevonden.</was_not_found>
+        <were_not_found>werden niet gevonden.</were_not_found>
+        <appears_in>Het woord komt in</appears_in>
+        <number_of_appear_words>Het aantal keren dat de woorden voorkamen:</number_of_appear_words>
+        <one_verse>één strofe voor.</one_verse>
+        <many_verses>strofen voor.</many_verses>
+        <not_all_together>komen niet allemaal tegelijk in één strofe van het gekozen zoek-type voor.</not_all_together>
+        <all>tegelijkertijd</all>
+        <starting_verse>Deze lijst begint vanaf strofe nummer</starting_verse>
+        <starting_verse_end></starting_verse_end>
+        <next>Naast</next>
+      </result>
+    </search>
+  </lang>
+
+  <lang symbol="ja">
+    <main name="目 次">
+      <home>トップ</home>
+      <title>聖クルアーン</title>
+      <meta>
+        <meta name="description" content="改訂版によせて｡ 日本ムスリム情報事務所｡"/>
+        <meta name="keywords" content="イスラム,イスラム教,神,宗教,信仰,真理,アラビア語,生命,死,真実,isuramu,kuruan,musurimu,kami,koran,arabia,arabirago,nihon,muhamato,islam,muslim,arab,japan,arabic,muhammad"/>
+      </meta>
+      <bismillah>慈悲あまねく慈愛深きアッラーの御名において。</bismillah>
+    </main>
+    <intro name="前 書"/>
+    <search>
+      <main>
+        <title>クルアーンの検索</title>
+        <instruction>探したい言葉の入力（漢字またはかな）入力された言葉に該当する全てが侮ｦされます。</instruction>
+        <hint name="ヒント">まず一語から始めます。</hint>
+        <button>検索</button>
+        <case>Case sensitive</case>
+        <backwards>Backwards</backwards>
+      </main>
+      <result>
+        <empty_field>検索する言葉が入力されていません（漢字またはかな）!</empty_field>
+        <title>聖クルアーン：検索結果</title>
+        <space></space>
+        <period>｡</period>
+        <comma>,</comma>
+        <only>日本語検索のみ可能（漢字またはかな）｡</only>
+        <search_for_word>単語</search_for_word>
+        <search_for_words>単語</search_for_words>
+        <search_for_word_end>の検索</search_for_word_end>
+        <search_for_words_end>の検索</search_for_words_end>
+        <quote_on>｢</quote_on>
+        <quote_off>｣</quote_off>
+        <and>と</and>
+        <search_is/>
+        <sensitive_for_word/>
+        <sensitive_for_words/>
+        <wildcards>This search uses one or more wildcards (? and *)</wildcards>
+        <the_word>単語</the_word>
+        <the_words>単語</the_words>
+        <was_not_found>の該当なし｡</was_not_found>
+        <were_not_found>の該当なし｡</were_not_found>
+        <appears_in></appears_in>
+        <number_of_appear_words>複数該当あり：</number_of_appear_words>
+        <one_verse>の該当１つ｡</one_verse>
+        <many_verses>文において該当あり｡</many_verses>
+        <not_all_together>与えられた単語を一度に表示することができません｡</not_all_together>
+        <all>全て</all>
+        <starting_verse>リストは</starting_verse>
+        <starting_verse_end>から始まります</starting_verse_end>
+        <next>次</next>
+      </result>
+    </search>
+  </lang>
+
+  <lang symbol="ko">
+    <main name="색 인">
+      <home>홈</home>
+      <title>성 꾸란</title>
+      <meta>
+        <meta name="description" content="성 꾸란: 의미의 한극어 번옉 파하드 국왕 꾸란 출판청."/>
+        <meta name="keywords" content=""/>
+      </meta>
+      <bismillah>자비로우시고 자애로우신 하 나님의 이름으로.</bismillah>
+    </main>
+    <intro name="서 문"/>
+    <search>
+      <main>
+        <title>검색</title>
+        <instruction>성 꾸란에 있는 단어를 검색하고 싶을 때 입력하시오. 그 검색기에 입력된 모든 단어는 성 꾸란 문장으로 바뀌게 될 것입니다</instruction>
+        <hint name="힌트">우선 한 단어로 시작한자.</hint>
+        <button>검색</button>
+        <case>Case sensitive</case>
+        <backwards>Backwards</backwards>
+      </main>
+      <result>
+        <empty_field>당신은 검색 단어를 제공하지 않는다!</empty_field>
+        <title>성 꾸란: 검색 결과</title>
+        <space> </space>
+        <period>.</period>
+        <comma>,</comma>
+        <only>이 검색은 한글로 만 사용된다.</only>
+        <search_for_word>단어</search_for_word>
+        <search_for_words>단어</search_for_words>
+        <search_for_word_end>에 대하여 검색하기.</search_for_word_end>
+        <search_for_words_end>에 대하여 검색하기.</search_for_words_end>
+        <quote_on>"</quote_on>
+        <quote_off>"</quote_off>
+        <and>와</and>
+        <search_is/>
+        <sensitive_for_word/>
+        <sensitive_for_words/>
+        <wildcards>그 검색은 하나 흑은 여러 개의 와일드카드르 사용한다 ('?' 와 '*').</wildcards>
+        <the_word>단어</the_word>
+        <the_words>단어</the_words>
+        <was_not_found>를 찾을 수 없었다.</was_not_found>
+        <were_not_found>를 찾을 수 없었다.</were_not_found>
+        <appears_in>appears in</appears_in>
+        <number_of_appear_words>단어의 표현 수:</number_of_appear_words>
+        <one_verse>one verse.</one_verse>
+        <many_verses>verses.</many_verses>
+        <not_all_together>그단어가 모두 꾸란의 단음으로 표현ㄱ되지 않는다.</not_all_together>
+        <all>모두</all>
+        <starting_verse>이 표는 번호</starting_verse>
+        <starting_verse_end>으로 시작된다.</starting_verse_end>
+        <next>다음의</next>
+      </result>
+    </search>
+  </lang>
+
+  <lang symbol="ar">
+    <main name="فهرست">
+      <home>رئيسية</home>
+      <title>القرءان الكريم</title>
+      <meta></meta>
+      <bismillah>بِسْمِ اللّهِ الرَّحْمَنِ الرَّحِيمِ</bismillah>
+    </main>
+    <intro name="مقدمة"/>
+    <search>
+      <main>
+        <title>بحث</title>
+        <instruction>ابحث عن كلمات</instruction>
+        <hint name="ملاحظة">ابدأ بكلمات بسيطة</hint>
+        <button>ابحث</button>
+        <case>Case sensitive</case>
+        <backwards>Backwards</backwards>
+      </main>
+      <result>
+        <empty_field>أنت لم تدخل أية كلمات للبحث</empty_field>
+        <title>القرءان الكريم: نتيجة البحث</title>
+        <space> </space>
+        <period>.</period>
+        <comma>,</comma>
+        <only>البحث يقبل الكلمات العربية فقط.</only>
+        <search_for_word>بحث عن الكلمة</search_for_word>
+        <search_for_words>بحث عن الكلمات</search_for_words>
+        <search_for_word_end></search_for_word_end>
+        <search_for_words_end></search_for_words_end>
+        <quote_on>"</quote_on>
+        <quote_off>"</quote_off>
+        <and>و</and>
+        <search_is>البحث</search_is>
+        <sensitive_for_word></sensitive_for_word>
+        <sensitive_for_words></sensitive_for_words>
+        <wildcards>This search uses one or more wildcards (? and *)</wildcards>
+        <the_word>الكلمة</the_word>
+        <the_words>الكلمات</the_words>
+        <was_not_found>لا تظهر في القرءان الكريم.</was_not_found>
+        <were_not_found>لا تظهر في القرءان الكريم.</were_not_found>
+        <appears_in>تظهر في</appears_in>
+        <number_of_appear_words>عدد مرات الظهور</number_of_appear_words>
+        <one_verse>ءاية واحدة.</one_verse>
+        <many_verses>ءايات.</many_verses>
+        <not_all_together>لا تظهر كلها في ءاية واحدة.</not_all_together>
+        <all>مع بعض</all>
+        <starting_verse>القائمة تبدأ من الءاية رقم</starting_verse>
+        <starting_verse_end></starting_verse_end>
+        <next>التالي</next>
+      </result>
+    </search>
+  </lang>
+
+  <lang symbol="zh">
+    <main name="指数">
+      <home>家</home>
+      <title>神聖古蘭經</title>
+      <meta>
+        <meta name="description" content=""/>
+        <meta name="keywords" content=""/>
+      </meta>
+      <bismillah>奉至仁至慈的真主之名</bismillah>
+    </main>
+    <intro name="前言"/>
+    <search>
+      <main>
+        <title>词搜索</title>
+        <instruction>进入后搜索词</instruction>
+        <hint name="暗示">开始单字 (i.e., "生活", "此后", "玛丽")</hint>
+        <button>搜索</button>
+        <case>case sensitive</case>
+        <backwards>backwards</backwards>
+      </main>
+      <result>
+        <empty_field>你没有提交任何搜索词!</empty_field>
+        <title>神聖古蘭經: 搜索结果</title>
+        <space> </space>
+        <period>.</period>
+        <comma>,</comma>
+        <only>This search will accept Chinese words only.</only>
+        <search_for_word>Searching for the word</search_for_word>
+        <search_for_words>Searching for the words</search_for_words>
+        <search_for_word_end></search_for_word_end>
+        <search_for_words_end></search_for_words_end>
+        <quote_on>"</quote_on>
+        <quote_off>"</quote_off>
+        <and>and</and>
+        <search_is>The search is</search_is>
+        <sensitive_for_word>case and accent sensitive for the word</sensitive_for_word>
+        <sensitive_for_words>case and accent sensitive for the words</sensitive_for_words>
+        <wildcards>This search uses one or more wildcards (? and *)</wildcards>
+        <the_word>The word</the_word>
+        <the_words>The words</the_words>
+        <was_not_found>was not found.</was_not_found>
+        <were_not_found>were not found.</were_not_found>
+        <appears_in>appears in</appears_in>
+        <number_of_appear_words>Number of appearances of words:</number_of_appear_words>
+        <one_verse>one verse.</one_verse>
+        <many_verses>verses.</many_verses>
+        <not_all_together>do not appear all together in one verse of the Koran.</not_all_together>
+        <all>All together</all>
+        <starting_verse>This list starts with verse number</starting_verse>
+        <starting_verse_end></starting_verse_end>
+        <next>Next</next>
+      </result>
+    </search>
+  </lang>
+
+  <lang symbol="ru">
+    <main name="Индекс">
+      <home>Главная</home>
+      <title>Священный Къуран</title>
+      <meta>
+        <meta name="description" content="Перевод смыслов Кулиева Эльмира."/>
+        <meta name="keywords" content="Мусульманин, ислам, Коран, Коран, Коран, английский, Свят, Писание"/>
+      </meta>
+      <bismillah>Во имя Аллаха, Милостивого, Милосердного.</bismillah>
+    </main>
+    <intro name="Предисловие"/>
+    <search>
+      <main>
+        <title>Поиск слова</title>
+        <instruction>Введите слова для поиска после</instruction>
+        <hint name="Подсказка">Начните с отдельными словами (например, "жизнь", "далее", "Марии", ... и т.д.)</hint>
+        <button>Поиск</button>
+        <case>case sensitive</case>
+        <backwards>backwards</backwards>
+      </main>
+      <result>
+        <empty_field>Вы не представили никаких слова для поиска!</empty_field>
+        <title>Священный Къуран: Результаты поиска</title>
+        <space> </space>
+        <period>.</period>
+        <comma>,</comma>
+        <only>Этот поиск будет принимать русских слов только.</only>
+        <search_for_word>Поиск по слову</search_for_word>
+        <search_for_words>Поиск слов</search_for_words>
+        <search_for_word_end></search_for_word_end>
+        <search_for_words_end></search_for_words_end>
+        <quote_on>«</quote_on>
+        <quote_off>»</quote_off>
+        <and>и</and>
+        <search_is>The search is</search_is>
+        <sensitive_for_word>case and accent sensitive for the word</sensitive_for_word>
+        <sensitive_for_words>case and accent sensitive for the words</sensitive_for_words>
+        <wildcards>This search uses one or more wildcards (? and *)</wildcards>
+        <the_word>Слово</the_word>
+        <the_words>Слова</the_words>
+        <was_not_found>не был найден.</was_not_found>
+        <were_not_found>где не найдено.</were_not_found>
+        <appears_in>появляется в</appears_in>
+        <number_of_appear_words>Количество появлений слова:</number_of_appear_words>
+        <one_verse>один стих.</one_verse>
+        <many_verses>стихов.</many_verses>
+        <not_all_together>не появляются все вместе в одном стихе Къуран.</not_all_together>
+        <all>Все вместе</all>
+        <starting_verse>This list starts with verse number</starting_verse>
+        <starting_verse_end></starting_verse_end>
+        <next>Следующая</next>
+      </result>
+    </search>
+  </lang>
+
+</language>
+
